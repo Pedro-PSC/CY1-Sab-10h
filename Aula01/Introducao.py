@@ -52,6 +52,7 @@ Regras de declaração em variáveis
 1ª → O nome deve ser único
 2ª → Não pode conter caracteres especiais
 3ª → Não pode conter espaço em nome composto
+4ª → Não pode começar com números
 '''
 
 # Declarando uma variável
