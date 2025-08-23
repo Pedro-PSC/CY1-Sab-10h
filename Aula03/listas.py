@@ -70,3 +70,12 @@ print(convidados)
 print(convidados)
 convidados.reverse()
 print(convidados)
+
+# Matrizes → são uma lista que contem listas
+
+timesXpessoas = [["Atlético","Cruzeiro","América","Pouso Alegre"],
+                 ["Alexandre","Frederico","Davi","Felipe"]]
+
+print(timesXpessoas[0][1])
+
+print(timesXpessoas[1][0])
