@@ -1,0 +1,3 @@
+1 - Escreva uma função chamada cidadeEPais() que recebe como parâmetro um nome de uma cidade e de um país. A função deve exibir uma frase simples, como “Brasília está localizada no Brasil”. Forneça um valor default ao parâmetro que representa o país. Chame sua função para três cidades diferentes em que pelo menos uma delas não esteja no país default.
+
+2 - Usando a função velocidade mostrada na aula, crie uma outra função onde vai comparar a velocidade de dois corredores e dizer qual deles percorreu o percurso em menor tempo.
