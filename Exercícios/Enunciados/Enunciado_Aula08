@@ -1,0 +1,4 @@
+1 - Crie uma calculadora que possua as operações básicas (Soma, Subtração, Multiplicação, 
+Divisão, Porcentagem, Potenciação, Raiz Quadrada) e importe essa calculadora para o script(código) principal onde o usuário irá escolhe qual operação deseja realizar e também vai passar os valores para as operação.
+
+2 - Crie 2 módulos, Geometria e Estatística para incorporar no código principal, no módulo de Geometria programe 5 cálculos de geometrica à sua escolha (Ex.: Área de formas geometricas), no módulo de estatística progame 2 cálculos de estatística à sua escolha (Ex.:Média, Média ponderada, Moda)
